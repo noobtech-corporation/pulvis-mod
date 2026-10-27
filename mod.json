@@ -1,0 +1,10 @@
+{
+    "name": "dust",
+    "displayName": "Pulvis",
+    "author": "Noobtech Corporation, Zeta",
+    "main": "dust.DustMod",
+    "description": "What you will make, will not last forever. Nature will always reclaim what is hers. (Sprites are recolors, or made by Zeta)",
+    "version": "1.0",
+    "minGameVersion": "160",
+    "java": true
+}
